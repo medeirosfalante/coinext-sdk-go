@@ -1,4 +1,4 @@
-package coinnext
+package coinext
 
 import (
 	"bytes"
