@@ -1,4 +1,4 @@
-package coinnext_test
+package coinext_test
 
 import (
 	"os"
